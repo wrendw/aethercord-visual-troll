@@ -6,7 +6,7 @@ this is purely visual. nothing works, it's simply for trolling.
    ```bash
    pip install dearpygui
 
-![aether](aether.jpg)
+![aether](showcase.jpg)
 
 discord: **@spyism**  
 website: [wren.lol](https://wren.lol/)
